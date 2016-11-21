@@ -1,0 +1,10 @@
+how I created my repository:
+create repository on github following directions
+then from the command line:
+git clone https://github.com/williamhampton/basic_repo.git
+git touch (file name)
+git touch (another file name)
+git add . (or git add filename)
+git commit -m "this is the comment you make"
+git push
+and we are done!!!
